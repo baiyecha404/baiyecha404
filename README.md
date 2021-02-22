@@ -1,5 +1,7 @@
 ### Hi there 👋 , this is byc_404
 
+- ⚡ Only participate in CTFs that I'm interested in. Maybe update some solutions at https://gist.github.com/baiyecha404
+
 ![byc_404's github stats](https://github-readme-stats.vercel.app/api?username=baiyecha404) 
 <!--
 **baiyecha404/baiyecha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=baiyecha404)
