@@ -1,6 +1,8 @@
 ### Hi there 👋 , this is byc_404
 
-- 🔭 I’m currently focusing on web security research
+- 🏫 I'm a master student at IIE, UCAS 
+- 🚩 I'm a CTF player of NeSE
+- 🔭 I’m currently focusing on WEB security research
 - ⚡ I’m currently learning advanced techniques in front-end security and Java vulns.
 
 ![byc_404's github stats](https://github-readme-stats.vercel.app/api?username=baiyecha404) 
